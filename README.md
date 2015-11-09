@@ -35,9 +35,8 @@ Android 开源项目第五篇——优秀个人和团体篇
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader
 ![image](https://raw.githubusercontent.com/kinneyyan/36krReader/master/Screenshots/device-2015-10-29-152645.png)
 
-9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有应用推荐，没有后台的消息推送，只提供最初的阅读功能。
-https://github.com/cundong/ZhihuPaper
- ![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
+9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。https://github.com/cundong/ZhihuPaper
+![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
 
 10.一个符合 Google Material Design 的 Android 校园新闻客户端.https://github.com/sues-lee/SuesNews
 ![image](https://github.com/sues-lee/SuesNews/blob/master/art/screenshot-2.png)
@@ -46,8 +45,10 @@ https://github.com/cundong/ZhihuPaper
 11.FineDay-A simple weather app;一个简单的天气预报app;https://github.com/sd6352051/FineDay
 ![image](https://camo.githubusercontent.com/ea45288811ac3b5836550ccc8f95b0dfdb66e218/687474703a2f2f70702e6d796170702e636f6d2f6d615f7069632f302f73686f745f31303633353533385f31383136373336315f325f313430323339323634372f353530);![image](https://camo.githubusercontent.com/acfe1f474ee6c773cc03e27f33c3913e6d50d03e/687474703a2f2f70702e6d796170702e636f6d2f6d615f7069632f302f73686f745f31303633353533385f31383136373336315f335f313430323339323634372f353530)
 
-12.
+12.Ruby-China的Android客户端 http://ruby-china.org/.https://github.com/gonjay/rubychina4android
+![image](https://camo.githubusercontent.com/d1c521c0c20e191cffbf93bae9a542256c457787/687474703a2f2f727562796368696e612e71696e6975646e2e636f6d2f6d656469612d32303134303230342532302831292e706e673f696d61676556696577322f312f772f3330302f682f353530),![image](https://camo.githubusercontent.com/9349ba23dc8e2101d8ff2d8b512ab98c2d3aca58/687474703a2f2f727562796368696e612e71696e6975646e2e636f6d2f6465766963652d323031342d30322d31302d3233323431322e706e673f696d61676556696577322f312f772f3330302f682f353530)
 
+13.
 
 
 
