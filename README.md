@@ -39,7 +39,14 @@ Android 开源项目第五篇——优秀个人和团体篇
 9.一个仿知乎日报客户端 - 新奇日报.https://github.com/cundong/ZhihuPaper
 ![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
 
-10.
+10.一个符合 Google Material Design 的 Android 校园新闻客户端.https://github.com/sues-lee/SuesNews
+![image](https://github.com/sues-lee/SuesNews/blob/master/art/screenshot-2.png)
+![image](https://github.com/sues-lee/SuesNews/blob/master/art/screenshot-3.png)
+
+11.FineDay-A simple weather app;https://github.com/sd6352051/FineDay
+![image](https://camo.githubusercontent.com/ea45288811ac3b5836550ccc8f95b0dfdb66e218/687474703a2f2f70702e6d796170702e636f6d2f6d615f7069632f302f73686f745f31303633353533385f31383136373336315f325f313430323339323634372f353530);![image](https://camo.githubusercontent.com/acfe1f474ee6c773cc03e27f33c3913e6d50d03e/687474703a2f2f70702e6d796170702e636f6d2f6d615f7069632f302f73686f745f31303633353533385f31383136373336315f335f313430323339323634372f353530)
+
+12.
 
 
 
