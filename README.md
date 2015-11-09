@@ -48,9 +48,15 @@ Android 开源项目第五篇——优秀个人和团体篇
 12.Ruby-China的Android客户端 http://ruby-china.org/.https://github.com/gonjay/rubychina4android
 ![image](https://camo.githubusercontent.com/d1c521c0c20e191cffbf93bae9a542256c457787/687474703a2f2f727562796368696e612e71696e6975646e2e636f6d2f6d656469612d32303134303230342532302831292e706e673f696d61676556696577322f312f772f3330302f682f353530),![image](https://camo.githubusercontent.com/9349ba23dc8e2101d8ff2d8b512ab98c2d3aca58/687474703a2f2f727562796368696e612e71696e6975646e2e636f6d2f6465766963652d323031342d30322d31302d3233323431322e706e673f696d61676556696577322f312f772f3330302f682f353530)
 
-13.
+13.A project which demonstrate how to develop a custom client on android for dribbble.com;
+https://github.com/tuesda/Watch
+![image](https://github.com/tuesda/Watch/blob/master/animation/comments.gif),![image](https://github.com/tuesda/Watch/blob/master/animation/home.gif),![image](https://github.com/tuesda/Watch/blob/master/animation/drawer.gif)
+
+14.a Dribbble client for android, building in android studio.https://github.com/NovelanceF/Dribbble_rebuild
+![image](https://camo.githubusercontent.com/4006f3a3329b907139189fe2ecdde91bda446397/687474703a2f2f6661726d382e737461746963666c69636b722e636f6d2f373430392f31323739323736383135335f633033373333303534372e6a7067),![image](https://camo.githubusercontent.com/25f2d63421f5cf91120b294b658f696f3bf4ba93/687474703a2f2f6661726d342e737461746963666c69636b722e636f6d2f333830302f31323739323736353632335f373638386438326239622e6a7067)
 
 
+15.
 
 
 
