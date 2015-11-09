@@ -35,9 +35,9 @@ Android 开源项目第五篇——优秀个人和团体篇
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader
 ![image](https://raw.githubusercontent.com/kinneyyan/36krReader/master/Screenshots/device-2015-10-29-152645.png)
 
-
-9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有应用推荐，没有后台的消息推送，只提供最初的阅读功能。https://github.com/cundong/ZhihuPaper
-![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
+9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有应用推荐，没有后台的消息推送，只提供最初的阅读功能。
+https://github.com/cundong/ZhihuPaper
+ ![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
 
 10.一个符合 Google Material Design 的 Android 校园新闻客户端.https://github.com/sues-lee/SuesNews
 ![image](https://github.com/sues-lee/SuesNews/blob/master/art/screenshot-2.png)
