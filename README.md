@@ -1,6 +1,6 @@
 # Android---project
 
-收集的一些开源项目.
+#收集的一些开源项目.
 
 1.Android 开源项目第一篇——个性化控件(View)篇
   包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar、TextView、ScrollView、TimeView、TipView、FlipView、ColorPickView、GraphView、UI Style、其他
@@ -81,7 +81,9 @@ https://github.com/tuesda/Watch
 ![image](https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif)
 
 
-18.
+18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。.https://github.com/KJFrame/KJBlog
+
+19.
 
 
 
