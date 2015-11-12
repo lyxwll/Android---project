@@ -76,7 +76,7 @@ https://github.com/tuesda/Watch
 ![image](https://camo.githubusercontent.com/8339e46ede8f34532f3fc1bf3d1ca99ef56b460c/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35312d32312e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070),![image](https://camo.githubusercontent.com/87c56d95476213f6a43637174ab727d1fb60632e/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35322d33362e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070)
 
 
-17.一个遵循Material Design的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义。https://github.com/nickbutcher/plaid
+17.一个遵循Material Design的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义。https://github.com/nickbutcher/plaid           
 ![image](https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif)
 
 
