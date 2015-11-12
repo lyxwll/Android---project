@@ -42,7 +42,7 @@ Android 开源项目第五篇——优秀个人和团体篇
 ![image](https://raw.githubusercontent.com/kinneyyan/36krReader/master/Screenshots/device-2015-10-29-152645.png)
 
 
-9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。https://github.com/cundong/ZhihuPaper
+9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。https://github.com/cundong/ZhihuPaper            
 ![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
 
 
@@ -68,7 +68,7 @@ https://github.com/tuesda/Watch
 ![image](https://camo.githubusercontent.com/4006f3a3329b907139189fe2ecdde91bda446397/687474703a2f2f6661726d382e737461746963666c69636b722e636f6d2f373430392f31323739323736383135335f633033373333303534372e6a7067),![image](https://camo.githubusercontent.com/25f2d63421f5cf91120b294b658f696f3bf4ba93/687474703a2f2f6661726d342e737461746963666c69636b722e636f6d2f333830302f31323739323736353632335f373638386438326239622e6a7067)
 
 
-15.彩阅.新闻源来自于新华网，人民网RSS源。实现了简单的新闻添加功能。 后台数据库使用BMOB云。实现了查询，排序，上传功能。 分享使用友盟，实现了微博，qq好友的分享。 图片列表使用第三方库实现CardView效果。 http://www.devstore.cn/code/info/1293.html
+15.彩阅.新闻源来自于新华网，人民网RSS源。实现了简单的新闻添加功能。 后台数据库使用BMOB云。实现了查询，排序，上传功能。 分享使用友盟，实现了微博，qq好友的分享。 图片列表使用第三方库实现CardView效果。 http://www.devstore.cn/code/info/1293.html             
 ![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102939639bdnsh17c/Screenshot_2015-10-28-10-10-04.png),![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102946591l4ok9bya/Screenshot_2015-10-28-10-10-10.png).
 
 
