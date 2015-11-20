@@ -60,7 +60,7 @@ Android 开源项目第五篇——优秀个人和团体篇
 
 
 13.A project which demonstrate how to develop a custom client on android for dribbble.com;
-https://github.com/tuesda/Watch
+https://github.com/tuesda/Watch         
 ![image](https://github.com/tuesda/Watch/blob/master/animation/comments.gif),![image](https://github.com/tuesda/Watch/blob/master/animation/home.gif),![image](https://github.com/tuesda/Watch/blob/master/animation/drawer.gif)
 
 
