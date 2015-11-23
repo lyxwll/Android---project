@@ -68,8 +68,9 @@ https://github.com/tuesda/Watch
 ![image](https://camo.githubusercontent.com/4006f3a3329b907139189fe2ecdde91bda446397/687474703a2f2f6661726d382e737461746963666c69636b722e636f6d2f373430392f31323739323736383135335f633033373333303534372e6a7067),![image](https://camo.githubusercontent.com/25f2d63421f5cf91120b294b658f696f3bf4ba93/687474703a2f2f6661726d342e737461746963666c69636b722e636f6d2f333830302f31323739323736353632335f373638386438326239622e6a7067)
 
 
-15.彩阅.新闻源来自于新华网，人民网RSS源。实现了简单的新闻添加功能。 后台数据库使用BMOB云。实现了查询，排序，上传功能。 分享使用友盟，实现了微博，qq好友的分享。 图片列表使用第三方库实现CardView效果。 http://www.devstore.cn/code/info/1293.html             
-![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102939639bdnsh17c/Screenshot_2015-10-28-10-10-04.png),![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102946591l4ok9bya/Screenshot_2015-10-28-10-10-10.png).
+15.彩阅.新闻源来自于新华网，人民网RSS源。实现了简单的新闻添加功能。 后台数据库使用BMOB云。实现了查询，排序，上传功能。 分享使用友盟，实现了微博，qq好友的分享。 图片列表使用第三方库实现CardView效果。 
+项目地址:http://www.devstore.cn/code/info/1293.html           
+![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102946591l4ok9bya/Screenshot_2015-10-28-10-10-10.png).
 
 
 16.干柴 - android client, php server;专注于Android干货资源.https://github.com/openproject/ganchai             
@@ -80,7 +81,8 @@ https://github.com/tuesda/Watch
 ![image](https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif)
 
 
-18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。.https://github.com/KJFrame/KJBlog
+18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。           
+项目地址:https://github.com/KJFrame/KJBlog
 
 19.GankDaily,每日提供技术干货的App。为学习使用 MVP、RxJava、Retrofit 等知识点，仿照 @drakeet 的妹纸， 使用 MVP 模式对项目进行重构，让视图层跟业务逻辑向分离，使代码结构更清晰。             
 项目地址:https://github.com/maoruibin/GankDaily                
