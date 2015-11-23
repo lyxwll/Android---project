@@ -15,7 +15,7 @@ Android 开源项目第五篇——优秀个人和团体篇
 
 
 2.妹纸Android客户端:每天自动更新一张精选妹纸图、一个小视频、一系列精选程序猿干货（周末不更新）。数据来自代码家的干货网站：http://gank.io;https://github.com/drakeet/Meizhi
-![image](https://github.com/drakeet/Meizhi/blob/master/screenshots/s0.png)![image](https://github.com/drakeet/Meizhi/blob/master/screenshots/s7.jpg)
+![image](https://github.com/drakeet/Meizhi/blob/master/screenshots/s0.png)
 
 
 3.一款免费,强大而优雅的Android端音乐播放器.https://github.com/psaravan/JamsMusicPlayer
@@ -72,7 +72,7 @@ https://github.com/tuesda/Watch
 ![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102939639bdnsh17c/Screenshot_2015-10-28-10-10-04.png),![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102946591l4ok9bya/Screenshot_2015-10-28-10-10-10.png).
 
 
-16.干柴 - android client, php server;专注于Android干货资源.https://github.com/openproject/ganchai
+16.干柴 - android client, php server;专注于Android干货资源.https://github.com/openproject/ganchai             
 ![image](https://camo.githubusercontent.com/8339e46ede8f34532f3fc1bf3d1ca99ef56b460c/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35312d32312e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070),![image](https://camo.githubusercontent.com/87c56d95476213f6a43637174ab727d1fb60632e/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35322d33362e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070)
 
 
@@ -82,8 +82,12 @@ https://github.com/tuesda/Watch
 
 18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。.https://github.com/KJFrame/KJBlog
 
-19.
+19.GankDaily,每日提供技术干货的App。为学习使用 MVP、RxJava、Retrofit 等知识点，仿照 @drakeet 的妹纸， 使用 MVP 模式对项目进行重构，让视图层跟业务逻辑向分离，使代码结构更清晰。             
+项目地址:https://github.com/maoruibin/GankDaily                
+![image](https://github.com/maoruibin/GankDaily/blob/master/art/gank_index.png)
 
+
+20.
 
 
 
