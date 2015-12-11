@@ -107,7 +107,11 @@ https://github.com/tuesda/Watch
 24.eoe的Android客户端源码.https://github.com/eoecn/android-app           
 
 
-25.
+25.Sina Weibo Android Client.https://github.com/qii/weiciyuan           
+![image](https://camo.githubusercontent.com/48decff5ad9407a92479a72fed9c03a059bc383e/68747470733a2f2f6c68352e67677068742e636f6d2f686c66324879376e7976475a326c365756334c45643249695856705f78596837365f6250555345615166306570527778783358412d376441466a5142695a793754773d683930302d7277)          
+
+
+26.
 
 
 
