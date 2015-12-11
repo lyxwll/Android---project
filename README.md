@@ -104,7 +104,10 @@ https://github.com/tuesda/Watch
 23.批量上传照片到facebook.https://github.com/chrisbanes/photup           
 
 
-24.
+24.eoe的Android客户端源码.https://github.com/eoecn/android-app           
+
+
+25.
 
 
 
