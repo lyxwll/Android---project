@@ -118,7 +118,12 @@ https://github.com/tuesda/Watch
 ![image](https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif)            
 
 
-27.
+27.Modern, easy and customizable app manager for Android with Material Design.应用管理工具.              
+项目地址:https://github.com/javiersantos/MLManager                 
+![image](https://raw.githubusercontent.com/javiersantos/MLManager/master/Screenshots/header-basic.png)                 
+
+
+28.
 
 
 
