@@ -123,7 +123,11 @@ https://github.com/tuesda/Watch
 ![image](https://raw.githubusercontent.com/javiersantos/MLManager/master/Screenshots/header-basic.png)                 
 
 
-28.
+28.AppPlus is a open source android application,and used to manage app,export apk,watch recent processes.    App+是一个主要用于Android用户间传送Apk文件的工具软件。当你手机中有一款不错的软件，然后你朋友也想在自己手机上体验一下，此时，通常的做法是让你的朋友去软件市场下载该软件。但是，如果此刻能直接把这个软件的安装包发送到对方的手机，岂不是更加方便、省时、省流量。                       项目地址:https://github.com/maoruibin/AppPlus                          
+![image](https://github.com/maoruibin/AppPlus/blob/master/art/detail.png),![image](https://github.com/maoruibin/AppPlus/blob/master/art/index.png)           
+
+
+29.
 
 
 
