@@ -127,7 +127,17 @@ https://github.com/tuesda/Watch
 ![image](https://github.com/maoruibin/AppPlus/blob/master/art/detail.png),![image](https://github.com/maoruibin/AppPlus/blob/master/art/index.png)           
 
 
-29.
+29.CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出变化、云同步、智能提醒等功能。                           
+项目地址:https://github.com/Nightonke/CoCoin                                              
+![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/记录.gif),![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/今日视图.gif),![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/标签视图.gif),![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/设置.gif)                 
+
+
+30.WeiBo:高仿新浪微博客户端.                       
+项目地址:https://github.com/wenmingvs/WeiBo                             
+![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot1.png),![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot3.png),![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot4.png),![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot2.png)                
+
+
+31.
 
 
 
