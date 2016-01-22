@@ -138,9 +138,9 @@ https://github.com/tuesda/Watch
 
 
 **31.PhotoNoter**             
-![image](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d3.png)Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)      
-项目地址:https://github.com/lyxwll/PhotoNoter                                      
-![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif)![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen1.png)                            
+Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)      
+项目地址:https://github.com/lyxwll/PhotoNoter          
+![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif) ![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen1.png)                            
 
 
 **32.**
