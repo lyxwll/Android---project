@@ -143,7 +143,18 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif) ![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen1.png)                            
 
 
-**32.**
+**32.A Material Design app for douban.com**
+开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）。          
+项目地址:https://github.com/DreaminginCodeZH/Douya                 
+![image](https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png),![image](https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg),![image](https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/04-broadcast-activity.png)
+
+
+**33.趣刻 Android APP**
+项目地址:https://github.com/hugeterry/coderfun                           
+![image](https://camo.githubusercontent.com/8956147eb93d81b1e8b26fb55b0dfb295e772d53/687474703a2f2f7777772e6875676574657272792e636e2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f636f64657266756e5f342e6a7067),![image](https://camo.githubusercontent.com/7832db0c180fb1bdd9d6d5fcba6340308e4f0ff8/687474703a2f2f7777772e6875676574657272792e636e2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f636f64657266756e5f312e6a7067),![image](https://camo.githubusercontent.com/c0d6272f9233d2627b18432cb5643780bd362af0/687474703a2f2f7777772e6875676574657272792e636e2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f636f64657266756e5f322e6a7067)
+
+
+**34.**
 
 
 
