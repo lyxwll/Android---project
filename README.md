@@ -174,7 +174,13 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/basic.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/user.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/favorite.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/problem.png)
 
 
-**38.**
+**38.知乎日报 RRD(Retrofit,RxJava,Dagger2)**             
+这是一个使用Retrofit RxJava Dagger2创建的简单示例。
+项目地址:https://github.com/lsxiao/ZhihuDailyRRD              
+![image](https://raw.githubusercontent.com/lsxiao/ZhihuDailyRRD/master/screenshot/Screenshot_20151116-231003.png),![image](https://raw.githubusercontent.com/lsxiao/ZhihuDailyRRD/master/screenshot/Screenshot_20151116-231003.png)             
+
+
+**39.**
 
 
 
