@@ -164,8 +164,17 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://github.com/oubowu/OuNews/blob/master/pic/1.png),![image](https://github.com/oubowu/OuNews/blob/master/pic/8.gif),![image](https://github.com/oubowu/OuNews/blob/master/pic/9.gif)
 
 
-**36.**
+**36.NewsMe 私人定制新闻**        
+项目地址:https://github.com/iQuick/NewsMe           
+![image](https://camo.githubusercontent.com/49c388a6af4a85cbd8f962a4865cbbc8118f74ec/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f652f61612f61633138313532626462373732316465666437623833306432626334356161655f3332305f3536392e6a706567),![image](https://camo.githubusercontent.com/4e42ada524fc148519338de602e00869e2a45318/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f652f62322f66663237633837613161663664626535343738326665353331306365356232655f3332305f3536392e6a706567),![image](https://camo.githubusercontent.com/6dfbf2ad0b3e8d0c5abb9b67c7be46d15638e835/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f312f34312f66653935346666616264306231633936383939643932323139613333613431315f3332305f3536392e6a706567),![image](https://camo.githubusercontent.com/6bf9c6c6255c99d080cdf0c61be131480d073d90/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f612f34612f32636530646362316431343534663537656435366338636463616137393461615f3332305f3536392e6a706567)        
 
+
+**37.LeetCoder is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.**
+项目地址:https://github.com/Nightonke/LeeCo           
+![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/basic.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/user.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/favorite.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/problem.png)
+
+
+**38.**
 
 
 
