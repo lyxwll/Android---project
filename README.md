@@ -190,7 +190,12 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://github.com/konifar/droidkaigi2016/blob/master/art/droidkaigi2.gif)             
 
 
-**41.**
+**41.MaterialNotes:Powered by MIUI Notes**     
+项目地址:https://github.com/songhanghang/MaterialNotes       
+![image](https://github.com/songhanghang/MaterialNotes/blob/master/screenshots/A0001LRX22Gsonghang12062015151859.gif)     
+
+
+**42.**
  
 
 
