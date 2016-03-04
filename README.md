@@ -185,7 +185,12 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://github.com/theScrabi/NewPipe/blob/master/screenshots/screenshot_1.png),![image](https://github.com/theScrabi/NewPipe/blob/master/screenshots/screenshot_3.png),![image](https://github.com/theScrabi/NewPipe/blob/master/screenshots/screenshot_5.png)     
 
 
-**40.**
+**40.DroidKaigi 2016 official Android conference app in Tokyo.**     
+项目地址:https://github.com/konifar/droidkaigi2016       
+![image](https://github.com/konifar/droidkaigi2016/blob/master/art/droidkaigi2.gif)             
+
+
+**41.**
  
 
 
