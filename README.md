@@ -195,7 +195,12 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://github.com/songhanghang/MaterialNotes/blob/master/screenshots/A0001LRX22Gsonghang12062015151859.gif)     
 
 
-**42.**
+**42.非官方版“一个(ONE)”，一个比官方版更优秀的版本**      
+项目地址:https://github.com/Uphie/ONE-Unofficial       
+![image](https://github.com/Uphie/ONE-Unofficial/blob/master/Screenshots/screenshot-1.png),![image](https://github.com/Uphie/ONE-Unofficial/blob/master/Screenshots/screenshot-3.png),![image](https://github.com/Uphie/ONE-Unofficial/blob/master/Screenshots/screenshot-2.png)       
+
+**43**
+
  
 
 
