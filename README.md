@@ -219,7 +219,12 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://raw.githubusercontent.com/dongjunkun/GanK/master/art/gank1.png),![image](https://raw.githubusercontent.com/dongjunkun/GanK/master/art/gank2.png)       
 
 
-**47.**
+**47.一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能。**       
+项目地址:https://github.com/IvorHu/RealStuff        
+![image](https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG),![image](https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG)       
+
+
+**48.**
 
 
 
