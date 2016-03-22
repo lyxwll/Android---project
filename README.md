@@ -17,15 +17,17 @@ Android 开源项目第五篇——优秀个人和团体篇
 项目地址:https://github.com/Trinea/android-open-project
 
 
-2.妹纸Android客户端:每天自动更新一张精选妹纸图、一个小视频、一系列精选程序猿干货（周末不更新）。数据来自代码家的干货网站：http://gank.io;https://github.com/drakeet/Meizhi
+2.妹纸Android客户端:每天自动更新一张精选妹纸图、一个小视频、一系列精选程序猿干货（周末不更新）。数据来自代码家的干货网站：http://gank.io;  https://github.com/drakeet/Meizhi
 ![image](https://github.com/drakeet/Meizhi/blob/master/screenshots/s0.png)
 
 
-3.一款免费,强大而优雅的Android端音乐播放器.https://github.com/psaravan/JamsMusicPlayer
+3.一款免费,强大而优雅的Android端音乐播放器.      
+https://github.com/psaravan/JamsMusicPlayer
 ![image](https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067)
 
 
-4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。https://github.com/SkillCollege/SimplifyReader
+4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。      
+https://github.com/SkillCollege/SimplifyReader
 ![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)
 
 
@@ -85,11 +87,14 @@ https://github.com/tuesda/Watch
 
 
 18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。           
-项目地址:https://github.com/KJFrame/KJBlog
+项目地址:https://github.com/KJFrame/KJBlog     
+<a href="http://www.kymjs.com/"><img src="http://www.kymjs.com/image/kjblog/screenshot1.png" height="400" width="240" alt="开源实验室"/></a>
+<a href="http://www.kymjs.com/"><img src="http://www.kymjs.com/image/kjblog/screenshot2.png" height="400" width="240" alt="开源实验室"/></a>
+<a href="http://www.kymjs.com/"><img src="http://www.kymjs.com/image/kjblog/screenshot3.png" height="400" width="240" alt="开源实验室"/></a>
 
 19.GankDaily,每日提供技术干货的App。为学习使用 MVP、RxJava、Retrofit 等知识点，仿照 @drakeet 的妹纸， 使用 MVP 模式对项目进行重构，让视图层跟业务逻辑向分离，使代码结构更清晰。             
 项目地址:https://github.com/maoruibin/GankDaily                
-![image](https://github.com/maoruibin/GankDaily/blob/master/art/gank_index.png)
+![image](https://github.com/maoruibin/GankDaily/blob/master/art/gank_introduce.png)
 
 
 20.一个基于Material Design的待办事件列表App.https://github.com/hanks-zyh/Conquer          
