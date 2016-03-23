@@ -229,7 +229,12 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 ![image](https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG),![image](https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG)       
 
 
-**48.**
+**48.使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。**     
+https://github.com/liuguangqiang/Idaily       
+![image](https://github.com/liuguangqiang/Idaily/blob/master/art/1.png),![image](https://github.com/liuguangqiang/Idaily/blob/master/art/2.png)             
+
+
+**49.**
 
 
 
