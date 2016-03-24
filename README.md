@@ -234,7 +234,12 @@ https://github.com/liuguangqiang/Idaily
 ![image](https://github.com/liuguangqiang/Idaily/blob/master/art/1.png),![image](https://github.com/liuguangqiang/Idaily/blob/master/art/2.png)             
 
 
-**49.**
+**49.一款基于Material Design 设计的开源笔记本应用**     
+https://github.com/lguipeng/Notes      
+![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_1.png),![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_3.png),![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_2.png)     
+
+
+**50.**
 
 
 
