@@ -236,7 +236,12 @@ https://github.com/liuguangqiang/Idaily
 
 **49.一款基于Material Design 设计的开源笔记本应用**     
 https://github.com/lguipeng/Notes      
-![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_1.png),![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_3.png),![image](https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_2.png)     
+<img src="./screenshot/screenshot_1.png" width="30%" height="30%">
+<img src="./screenshot/screenshot_2.png" width="30%" height="30%">
+<img src="./screenshot/screenshot_3.png" width="30%" height="30%">
+<img src="./screenshot/screenshot_4.png" width="30%" height="30%">
+<img src="./screenshot/screenshot_5.png" width="30%" height="30%">
+<img src="./screenshot/screenshot_6.png" width="30%" height="30%">   
 
 
 **50.**
