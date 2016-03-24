@@ -25,7 +25,7 @@ Android 开源项目第五篇——优秀个人和团体篇
 
 3.一款免费,强大而优雅的Android端音乐播放器.      
 https://github.com/psaravan/JamsMusicPlayer       
-<img src="./screenshot/3-1.jpg" width = "300" height = "200"/>
+<img src="./screenshot/3-1.jpg" width = "400" height = "300"/>
 
 
 4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。      
@@ -33,16 +33,17 @@ https://github.com/SkillCollege/SimplifyReader
 ![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)
 
 
-5.Purified version of Zhihu Daily - 更纯净的知乎日报.https://github.com/izzyleung/ZhihuDailyPurify
-![image](https://raw.githubusercontent.com/izzyleung/ZhihuDailyPurify/master/ZhihuDailyPurify.png)
+5.Purified version of Zhihu Daily - 更纯净的知乎日报.https://github.com/izzyleung/ZhihuDailyPurify    
+<img src="./screenshot/5-1.png" width = "400" height = "300"/>
 
 
-6.知乎专栏App.https://github.com/bxbxbai/ZhuanLan
-![image](https://camo.githubusercontent.com/a09ce4b549e048400597aaf4d40b7866e496678b/687474703a2f2f69322e74696574756b752e636f6d2f323937303233396637313239363339382e706e67)
+6.知乎专栏App.https://github.com/bxbxbai/ZhuanLan    
+<img src="./screenshot/6-1.png" width = "30%" height = "300"/>
+<img src="./screenshot/6-2.png" width = "30%" height = "300"/>
 
 
-7.V2EX社区客户端，非官方。https://github.com/greatyao/v2ex-android
-![image](https://camo.githubusercontent.com/681b0ef9558ea805dfa325ea958b263c94fd31f1/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f6e6f6465732e706e67)
+7.V2EX社区客户端，非官方。https://github.com/greatyao/v2ex-android     
+<img src="./screenshot/7-1.png" width = "400" height = "300"/>
 
 
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader
