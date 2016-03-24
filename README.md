@@ -29,8 +29,8 @@ https://github.com/psaravan/JamsMusicPlayer
 
 
 4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。      
-https://github.com/SkillCollege/SimplifyReader
-![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)
+https://github.com/SkillCollege/SimplifyReader     
+<img src="./screenshot/4-1.jpg" width = "100%" height = "30%"/>
 
 
 5.Purified version of Zhihu Daily - 更纯净的知乎日报.https://github.com/izzyleung/ZhihuDailyPurify    
