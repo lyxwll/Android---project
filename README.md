@@ -34,16 +34,16 @@ https://github.com/SkillCollege/SimplifyReader
 
 
 5.Purified version of Zhihu Daily - 更纯净的知乎日报.https://github.com/izzyleung/ZhihuDailyPurify    
-<img src="./screenshot/5-1.png" width = "400" height = "300"/>
+<img src="./screenshot/5-1.png" width = "30%" height = "20%"/>
 
 
 6.知乎专栏App.https://github.com/bxbxbai/ZhuanLan    
-<img src="./screenshot/6-1.png" width = "30%" height = "300"/>
-<img src="./screenshot/6-2.png" width = "30%" height = "300"/>
+<img src="./screenshot/6-1.png" width = "30%" height = "20%"/>
+<img src="./screenshot/6-2.png" width = "30%" height = "20%"/>
 
 
 7.V2EX社区客户端，非官方。https://github.com/greatyao/v2ex-android     
-<img src="./screenshot/7-1.png" width = "400" height = "300"/>
+<img src="./screenshot/7-1.png" width = "30%" height = "20%"/>
 
 
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader
