@@ -25,7 +25,7 @@ Android 开源项目第五篇——优秀个人和团体篇
 
 3.一款免费,强大而优雅的Android端音乐播放器.      
 https://github.com/psaravan/JamsMusicPlayer
-![image](https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067)
+<img src="./screenshot/3-1.png" width = "300" height = "200"/>
 
 
 4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。      
