@@ -46,7 +46,7 @@ https://github.com/SkillCollege/SimplifyReader
 <img src="./screenshot/7-1.png" width = "30%" height = "20%" align=center/>
 
 
-8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader
+8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader      
 <img src="./screenshot/8-1.png" width = "30%" height = "20%" align=center/>
 
 
