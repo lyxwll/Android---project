@@ -114,7 +114,8 @@ https://github.com/tuesda/Watch
 
 21.A material Date Range Picker based on wdullaers MaterialDateTimePicker.          
 项目地址:https://github.com/borax12/MaterialDateRangePicker           
-![image](https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/4.png?raw=true),![image](https://raw.githubusercontent.com/borax12/MaterialDateRangePicker/master/screenshots/2.png)        
+<img src="./screenshot/21-1.png" width = "40%" height = "20%">
+<img src="./screenshot/21-2.png" width = "40%" height = "20%">  
 
 
 22.github客户端.https://github.com/pockethub/PocketHub              
@@ -127,83 +128,109 @@ https://github.com/tuesda/Watch
 
 
 25.Sina Weibo Android Client.https://github.com/qii/weiciyuan           
-![image](https://camo.githubusercontent.com/48decff5ad9407a92479a72fed9c03a059bc383e/68747470733a2f2f6c68352e67677068742e636f6d2f686c66324879376e7976475a326c365756334c45643249695856705f78596837365f6250555345615166306570527778783358412d376441466a5142695a793754773d683930302d7277)          
+<img src="./screenshot/25-1.webp.jpg" width = "40%" height = "20%">
+<img src="./screenshot/25-2.webp.jpg" width = "40%" height = "20%">           
 
 
 26.煎蛋”Android版的高仿.https://github.com/ZhaoKaiQiang/JianDan            
-![image](https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif)            
+<img src="./screenshot/26-1.gif" width = "40%" height = "20%">           
 
 
 27.Modern, easy and customizable app manager for Android with Material Design.应用管理工具.              
 项目地址:https://github.com/javiersantos/MLManager                 
-![image](https://raw.githubusercontent.com/javiersantos/MLManager/master/Screenshots/header-basic.png)                 
+<img src="./screenshot/26-1.png" width = "40%" height = "20%">              
 
 
 28.AppPlus is a open source android application,and used to manage app,export apk,watch recent processes.    App+是一个主要用于Android用户间传送Apk文件的工具软件。当你手机中有一款不错的软件，然后你朋友也想在自己手机上体验一下，此时，通常的做法是让你的朋友去软件市场下载该软件。但是，如果此刻能直接把这个软件的安装包发送到对方的手机，岂不是更加方便、省时、省流量。                       项目地址:https://github.com/maoruibin/AppPlus                          
-![image](https://github.com/maoruibin/AppPlus/blob/master/art/detail.png),![image](https://github.com/maoruibin/AppPlus/blob/master/art/index.png)           
+<img src="./screenshot/28-1.png" width = "40%" height = "20%">
+<img src="./screenshot/28-2.png" width = "40%" height = "20%">        
 
 
 29.CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出变化、云同步、智能提醒等功能。                           
 项目地址:https://github.com/Nightonke/CoCoin                                              
-![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/记录.gif)![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/今日视图.gif)![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/标签视图.gif)![image](https://github.com/Nightonke/CoCoin/blob/master/Gif/设置.gif)                 
+<img src="./screenshot/29-1.gif" width = "30%" height = "20%">
+<img src="./screenshot/29-2.gif" width = "30%" height = "20%"> 
+<img src="./screenshot/29-3.gif" width = "30%" height = "20%"> 
 
 
 **30.WeiBo:高仿新浪微博客户端**                     
-项目地址:https://github.com/wenmingvs/WeiBo                             
-![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot1.png)![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot3.png)![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot4.png)![image](https://raw.githubusercontent.com/wenmingvs/WeiBo/master/screenshot2.png)                
+项目地址:https://github.com/wenmingvs/WeiBo       
+<img src="./screenshot/30-1.png" width = "25%" height = "20%">
+<img src="./screenshot/30-2.png" width = "25%" height = "20%">
+<img src="./screenshot/30-3.png" width = "25%" height = "20%">
+<img src="./screenshot/30-4.png" width = "25%" height = "20%">   
 
 
 **31.PhotoNoter**             
 Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)      
 项目地址:https://github.com/lyxwll/PhotoNoter          
-![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif) ![image](https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen1.png)                            
+<img src="./screenshot/31-1.gif" width = "30%" height = "20%">
+<img src="./screenshot/31-2.png" width = "30%" height = "20%">                          
 
 
 **32.A Material Design app for douban.com**
 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）。          
 项目地址:https://github.com/DreaminginCodeZH/Douya                 
-![image](https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png),![image](https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg),![image](https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/04-broadcast-activity.png)
+<img src="./screenshot/32-1.png" width = "30%" height = "20%">
+<img src="./screenshot/32-2.jpg" width = "30%" height = "20%">
+<img src="./screenshot/32-3.png" width = "30%" height = "20%">
 
 
 **33.趣刻 Android APP**
 项目地址:https://github.com/hugeterry/coderfun                           
-![image](https://camo.githubusercontent.com/8956147eb93d81b1e8b26fb55b0dfb295e772d53/687474703a2f2f7777772e6875676574657272792e636e2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f636f64657266756e5f342e6a7067),![image](https://camo.githubusercontent.com/7832db0c180fb1bdd9d6d5fcba6340308e4f0ff8/687474703a2f2f7777772e6875676574657272792e636e2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f636f64657266756e5f312e6a7067),![image](https://camo.githubusercontent.com/c0d6272f9233d2627b18432cb5643780bd362af0/687474703a2f2f7777772e6875676574657272792e636e2f77702d636f6e74656e742f75706c6f6164732f323031362f30322f636f64657266756e5f322e6a7067)
+<img src="./screenshot/33-1.jpg" width = "30%" height = "20%">
+<img src="./screenshot/33-2.jpg" width = "30%" height = "20%">
+<img src="./screenshot/33-3.jpg" width = "30%" height = "20%">
 
 
 **34.采用MVP架构的仿知乎APP**
 项目地址:https://github.com/fangx/ZhiHuMVP          
-![image](https://github.com/fangx/ZhiHuMVP/blob/master/img/zhihu1.gif),![image](https://github.com/fangx/ZhiHuMVP/blob/master/img/zhihu2.gif),![image](https://github.com/fangx/ZhiHuMVP/blob/master/img/zhihu3.gif)            
+<img src="./screenshot/34-1.gif" width = "30%" height = "20%">
+<img src="./screenshot/34-2.gif" width = "30%" height = "20%">
+<img src="./screenshot/34-3.gif" width = "30%" height = "20%">          
 
 
 **35.OuNews 一个由学习之用而来的新闻阅读开源App**  
 项目地址:https://github.com/oubowu/OuNews   
-![image](https://github.com/oubowu/OuNews/blob/master/pic/1.png),![image](https://github.com/oubowu/OuNews/blob/master/pic/8.gif),![image](https://github.com/oubowu/OuNews/blob/master/pic/9.gif)
+<img src="./screenshot/35-1.jpg" width = "30%" height = "20%">
+<img src="./screenshot/35-2.gif" width = "30%" height = "20%">
+<img src="./screenshot/35-3.gif" width = "30%" height = "20%">
 
 
 **36.NewsMe 私人定制新闻**        
-项目地址:https://github.com/iQuick/NewsMe           
-![image](https://camo.githubusercontent.com/49c388a6af4a85cbd8f962a4865cbbc8118f74ec/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f652f61612f61633138313532626462373732316465666437623833306432626334356161655f3332305f3536392e6a706567),![image](https://camo.githubusercontent.com/4e42ada524fc148519338de602e00869e2a45318/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f652f62322f66663237633837613161663664626535343738326665353331306365356232655f3332305f3536392e6a706567),![image](https://camo.githubusercontent.com/6dfbf2ad0b3e8d0c5abb9b67c7be46d15638e835/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f312f34312f66653935346666616264306231633936383939643932323139613333613431315f3332305f3536392e6a706567),![image](https://camo.githubusercontent.com/6bf9c6c6255c99d080cdf0c61be131480d073d90/687474703a2f2f696d672e77646a696d672e636f6d2f6d6d732f73637265656e73686f742f612f34612f32636530646362316431343534663537656435366338636463616137393461615f3332305f3536392e6a706567)        
+项目地址:https://github.com/iQuick/NewsMe      
+<img src="./screenshot/36-1.jpg" width = "30%" height = "20%">
+<img src="./screenshot/36-2.jpg" width = "30%" height = "20%">
+<img src="./screenshot/36-3.jpg" width = "30%" height = "20%">        
 
 
 **37.LeetCoder is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.**
 项目地址:https://github.com/Nightonke/LeeCo           
-![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/basic.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/user.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/favorite.png),![image](https://github.com/Nightonke/LeeCo/blob/master/PNG/problem.png)
+<img src="./screenshot/37-1.png" width = "50%" height = "20%">
+<img src="./screenshot/37-2.png" width = "50%" height = "20%">
+<img src="./screenshot/37-3.png" width = "50%" height = "20%">
+<img src="./screenshot/37-4.png" width = "50%" height = "20%">
 
 
 **38.知乎日报 RRD(Retrofit,RxJava,Dagger2)**             
 这是一个使用Retrofit RxJava Dagger2创建的简单示例。                                         
 项目地址:https://github.com/lsxiao/ZhihuDailyRRD              
-![image](https://raw.githubusercontent.com/lsxiao/ZhihuDailyRRD/master/screenshot/Screenshot_20151116-231003.png)          
+<img src="./screenshot/38-1.png" width = "50%" height = "20%">
+<img src="./screenshot/38-2.png" width = "50%" height = "20%">
+<img src="./screenshot/38-3.png" width = "50%" height = "20%">         
 
 
 **39.A lightweight Youtube frontend for Android.**     
 项目地址:https://github.com/theScrabi/NewPipe          
-![image](https://github.com/theScrabi/NewPipe/blob/master/screenshots/screenshot_1.png),![image](https://github.com/theScrabi/NewPipe/blob/master/screenshots/screenshot_3.png),![image](https://github.com/theScrabi/NewPipe/blob/master/screenshots/screenshot_5.png)     
+<img src="./screenshot/39-1.png" width = "50%" height = "20%">
+<img src="./screenshot/39-2.png" width = "50%" height = "20%">
+<img src="./screenshot/39-3.png" width = "50%" height = "20%">     
 
 
 **40.DroidKaigi 2016 official Android conference app in Tokyo.**     
 项目地址:https://github.com/konifar/droidkaigi2016       
-![image](https://github.com/konifar/droidkaigi2016/blob/master/art/droidkaigi2.gif)             
+<img src="./screenshot/40-1.gif" width = "50%" height = "20%">
+<img src="./screenshot/40-2.png" width = "80%" height = "20%">          
 
 
 **41.MaterialNotes:Powered by MIUI Notes**     
