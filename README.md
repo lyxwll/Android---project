@@ -128,17 +128,17 @@ https://github.com/tuesda/Watch
 
 
 25.Sina Weibo Android Client.https://github.com/qii/weiciyuan           
-<img src="./screenshot/25-1.webp.jpg" width = "40%" height = "20%">
-<img src="./screenshot/25-2.webp.jpg" width = "40%" height = "20%">           
+<img src="./screenshot/25-1.webp.jpg" width = "30%" height = "20%">
+<img src="./screenshot/25-2.webp.jpg" width = "30%" height = "20%">           
 
 
 26.煎蛋”Android版的高仿.https://github.com/ZhaoKaiQiang/JianDan            
-<img src="./screenshot/26-1.gif" width = "40%" height = "20%">           
+<img src="./screenshot/26-1.gif" width = "30%" height = "20%">           
 
 
 27.Modern, easy and customizable app manager for Android with Material Design.应用管理工具.              
 项目地址:https://github.com/javiersantos/MLManager                 
-<img src="./screenshot/26-1.png" width = "40%" height = "20%">              
+<img src="./screenshot/27-1.png" width = "40%" height = "20%">              
 
 
 28.AppPlus is a open source android application,and used to manage app,export apk,watch recent processes.    App+是一个主要用于Android用户间传送Apk文件的工具软件。当你手机中有一款不错的软件，然后你朋友也想在自己手机上体验一下，此时，通常的做法是让你的朋友去软件市场下载该软件。但是，如果此刻能直接把这个软件的安装包发送到对方的手机，岂不是更加方便、省时、省流量。                       项目地址:https://github.com/maoruibin/AppPlus                          
@@ -155,10 +155,10 @@ https://github.com/tuesda/Watch
 
 **30.WeiBo:高仿新浪微博客户端**                     
 项目地址:https://github.com/wenmingvs/WeiBo       
-<img src="./screenshot/30-1.png" width = "25%" height = "20%">
-<img src="./screenshot/30-2.png" width = "25%" height = "20%">
-<img src="./screenshot/30-3.png" width = "25%" height = "20%">
-<img src="./screenshot/30-4.png" width = "25%" height = "20%">   
+<img src="./screenshot/30-1.png" width = "20%" height = "20%">
+<img src="./screenshot/30-2.png" width = "20%" height = "20%">
+<img src="./screenshot/30-3.png" width = "20%" height = "20%">
+<img src="./screenshot/30-4.png" width = "20%" height = "20%">   
 
 
 **31.PhotoNoter**             
@@ -192,7 +192,7 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **35.OuNews 一个由学习之用而来的新闻阅读开源App**  
 项目地址:https://github.com/oubowu/OuNews   
-<img src="./screenshot/35-1.jpg" width = "30%" height = "20%">
+<img src="./screenshot/35-1.png" width = "30%" height = "20%">
 <img src="./screenshot/35-2.gif" width = "30%" height = "20%">
 <img src="./screenshot/35-3.gif" width = "30%" height = "20%">
 
@@ -206,30 +206,30 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **37.LeetCoder is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.**
 项目地址:https://github.com/Nightonke/LeeCo           
-<img src="./screenshot/37-1.png" width = "50%" height = "20%">
-<img src="./screenshot/37-2.png" width = "50%" height = "20%">
-<img src="./screenshot/37-3.png" width = "50%" height = "20%">
-<img src="./screenshot/37-4.png" width = "50%" height = "20%">
+<img src="./screenshot/37-1.png" width = "40%" height = "20%">
+<img src="./screenshot/37-2.png" width = "40%" height = "20%">
+<img src="./screenshot/37-3.png" width = "40%" height = "20%">
+<img src="./screenshot/37-4.png" width = "40%" height = "20%">
 
 
 **38.知乎日报 RRD(Retrofit,RxJava,Dagger2)**             
 这是一个使用Retrofit RxJava Dagger2创建的简单示例。                                         
 项目地址:https://github.com/lsxiao/ZhihuDailyRRD              
-<img src="./screenshot/38-1.png" width = "50%" height = "20%">
-<img src="./screenshot/38-2.png" width = "50%" height = "20%">
-<img src="./screenshot/38-3.png" width = "50%" height = "20%">         
+<img src="./screenshot/38-1.png" width = "30%" height = "20%">
+<img src="./screenshot/38-2.png" width = "30%" height = "20%">
+<img src="./screenshot/38-3.png" width = "30%" height = "20%">         
 
 
 **39.A lightweight Youtube frontend for Android.**     
 项目地址:https://github.com/theScrabi/NewPipe          
-<img src="./screenshot/39-1.png" width = "50%" height = "20%">
-<img src="./screenshot/39-2.png" width = "50%" height = "20%">
-<img src="./screenshot/39-3.png" width = "50%" height = "20%">     
+<img src="./screenshot/39-1.png" width = "30%" height = "20%">
+<img src="./screenshot/39-2.png" width = "30%" height = "20%">
+<img src="./screenshot/39-3.png" width = "30%" height = "20%">     
 
 
 **40.DroidKaigi 2016 official Android conference app in Tokyo.**     
 项目地址:https://github.com/konifar/droidkaigi2016       
-<img src="./screenshot/40-1.gif" width = "50%" height = "20%">
+<img src="./screenshot/40-1.gif" width = "30%" height = "10%">
 <img src="./screenshot/40-2.png" width = "80%" height = "20%">          
 
 
