@@ -114,8 +114,8 @@ https://github.com/tuesda/Watch
 
 21.A material Date Range Picker based on wdullaers MaterialDateTimePicker.          
 项目地址:https://github.com/borax12/MaterialDateRangePicker           
-<img src="./screenshot/21-1.png" width = "40%" height = "20%">
-<img src="./screenshot/21-2.png" width = "40%" height = "20%">  
+<img src="./screenshot/21-1.png" width = "30%" height = "20%">
+<img src="./screenshot/21-2.png" width = "30%" height = "20%">  
 
 
 22.github客户端.https://github.com/pockethub/PocketHub              
@@ -138,12 +138,12 @@ https://github.com/tuesda/Watch
 
 27.Modern, easy and customizable app manager for Android with Material Design.应用管理工具.              
 项目地址:https://github.com/javiersantos/MLManager                 
-<img src="./screenshot/27-1.png" width = "40%" height = "20%">              
+<img src="./screenshot/27-1.png" width = "30%" height = "20%">              
 
 
 28.AppPlus is a open source android application,and used to manage app,export apk,watch recent processes.    App+是一个主要用于Android用户间传送Apk文件的工具软件。当你手机中有一款不错的软件，然后你朋友也想在自己手机上体验一下，此时，通常的做法是让你的朋友去软件市场下载该软件。但是，如果此刻能直接把这个软件的安装包发送到对方的手机，岂不是更加方便、省时、省流量。                       项目地址:https://github.com/maoruibin/AppPlus                          
-<img src="./screenshot/28-1.png" width = "40%" height = "20%">
-<img src="./screenshot/28-2.png" width = "40%" height = "20%">        
+<img src="./screenshot/28-1.png" width = "25%" height = "20%">
+<img src="./screenshot/28-2.png" width = "25%" height = "20%">        
 
 
 29.CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出变化、云同步、智能提醒等功能。                           
@@ -229,8 +229,8 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **40.DroidKaigi 2016 official Android conference app in Tokyo.**     
 项目地址:https://github.com/konifar/droidkaigi2016       
-<img src="./screenshot/40-1.gif" width = "30%" height = "10%">
-<img src="./screenshot/40-2.png" width = "80%" height = "20%">          
+<img src="./screenshot/40-1.gif" width = "25%" height = "10%">
+<img src="./screenshot/40-2.png" width = "50%" height = "20%">          
 
 
 **41.MaterialNotes:Powered by MIUI Notes**     
