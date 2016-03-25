@@ -230,7 +230,7 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 **40.DroidKaigi 2016 official Android conference app in Tokyo.**     
 项目地址:https://github.com/konifar/droidkaigi2016       
 <img src="./screenshot/40-1.gif" width = "25%" height = "10%">
-<img src="./screenshot/40-2.png" width = "50%" height = "20%">          
+<img src="./screenshot/40-2.png" width = "50%" height = "30%">          
 
 
 **41.MaterialNotes:Powered by MIUI Notes**     
