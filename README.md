@@ -18,9 +18,9 @@ Android 开源项目第五篇——优秀个人和团体篇
 
 
 2.妹纸Android客户端:每天自动更新一张精选妹纸图、一个小视频、一系列精选程序猿干货（周末不更新）。数据来自代码家的干货网站：http://gank.io;  https://github.com/drakeet/Meizhi                     
-<img src="./screenshot/2-1.png" width="30%" height="10%">
-<img src="./screenshot/2-6.png" width="30%" height="10%">
-<img src="./screenshot/2-8.png" width="30%" height="10%">
+<img src="./screenshot/2-1.png" width="25%" height="20%">
+<img src="./screenshot/2-6.png" width="25%" height="20%">
+<img src="./screenshot/2-8.png" width="25%" height="20%">
 
 
 3.一款免费,强大而优雅的Android端音乐播放器.      
@@ -34,57 +34,57 @@ https://github.com/SkillCollege/SimplifyReader
 
 
 5.Purified version of Zhihu Daily - 更纯净的知乎日报.https://github.com/izzyleung/ZhihuDailyPurify    
-<img src="./screenshot/5-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/5-1.png" width = "25%" height = "20%" align=center/>
 
 
 6.知乎专栏App.https://github.com/bxbxbai/ZhuanLan    
-<img src="./screenshot/6-1.png" width = "30%" height = "20%"/>
-<img src="./screenshot/6-2.png" width = "30%" height = "20%"/>
+<img src="./screenshot/6-1.png" width = "25%" height = "20%"/>
+<img src="./screenshot/6-2.png" width = "25%" height = "20%"/>
 
 
 7.V2EX社区客户端，非官方。https://github.com/greatyao/v2ex-android     
-<img src="./screenshot/7-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/7-1.png" width = "25%" height = "20%" align=center/>
 
 
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader      
-<img src="./screenshot/8-1.png" width = "30%" height = "10%" align=center/>
+<img src="./screenshot/8-1.png" width = "25%" height = "20%" align=center/>
 
 
 9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。       
 https://github.com/cundong/ZhihuPaper            
-<img src="./screenshot/9-1.png" width = "30%" height = "10%" align=center/>
+<img src="./screenshot/9-1.png" width = "25%" height = "20%" align=center/>
 
 
 10.一个符合 Google Material Design 的 Android 校园新闻客户端.https://github.com/sues-lee/SuesNews
-<img src="./screenshot/10-1.png" width = "30%" height = "10%" align=center/>
-<img src="./screenshot/10-2.png" width = "30%" height = "10%" align=center/>
+<img src="./screenshot/10-1.png" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/10-2.png" width = "25%" height = "20%" align=center/>
 
 
 11.FineDay-A simple weather app;一个简单的天气预报app;https://github.com/sd6352051/FineDay
-<img src="./screenshot/11-1.jpg" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/11-2.jpg" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/11-1.jpg" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/11-2.jpg" width = "25%" height = "20%" align=center/>
 
 
 12.Ruby-China的Android客户端 http://ruby-china.org/.https://github.com/gonjay/rubychina4android
-<img src="./screenshot/12-1.png" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/12-2.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/12-1.png" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/12-2.png" width = "25%" height = "20%" align=center/>
 
 
 13.A project which demonstrate how to develop a custom client on android for dribbble.com;
 https://github.com/tuesda/Watch         
-<img src="./screenshot/13-1.gif" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/13-2.gif" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/13-3.gif" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/13-1.gif" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/13-2.gif" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/13-3.gif" width = "25%" height = "20%" align=center/>
 
 
 14.a Dribbble client for android, building in android studio.https://github.com/NovelanceF/Dribbble_rebuild     
-<img src="./screenshot/14-1.jpg" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/14-2.jpg" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/14-1.jpg" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/14-2.jpg" width = "25%" height = "20%" align=center/>
 
 
 15.彩阅.新闻源来自于新华网，人民网RSS源。实现了简单的新闻添加功能。 后台数据库使用BMOB云。实现了查询，排序，上传功能。 分享使用友盟，实现了微博，qq好友的分享。 图片列表使用第三方库实现CardView效果。 
 项目地址:http://www.devstore.cn/code/info/1293.html           
-<img src="./screenshot/15-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/15-1.png" width = "25%" height = "20%" align=center/>
 
 
 16.干柴 - android client, php server;专注于Android干货资源.https://github.com/openproject/ganchai             
@@ -92,7 +92,7 @@ https://github.com/tuesda/Watch
 
 
 17.一个遵循Material Design的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义。https://github.com/nickbutcher/plaid           
-<img src="./screenshot/17-1.gif" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/17-1.gif" width = "25%" height = "20%" align=center/>
 
 
 18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。           
@@ -107,15 +107,15 @@ https://github.com/tuesda/Watch
 
 
 20.一个基于Material Design的待办事件列表App.https://github.com/hanks-zyh/Conquer          
-<img src="./screenshot/20-1.png" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/20-2.gif" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/20-3.gif" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/20-1.png" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/20-2.gif" width = "25%" height = "20%" align=center/>
+<img src="./screenshot/20-3.gif" width = "25%" height = "20%" align=center/>
 
 
 21.A material Date Range Picker based on wdullaers MaterialDateTimePicker.          
 项目地址:https://github.com/borax12/MaterialDateRangePicker           
-<img src="./screenshot/21-1.png" width = "30%" height = "20%">
-<img src="./screenshot/21-2.png" width = "30%" height = "20%">  
+<img src="./screenshot/21-1.png" width = "25%" height = "20%">
+<img src="./screenshot/21-2.png" width = "25%" height = "20%">  
 
 
 22.github客户端.https://github.com/pockethub/PocketHub              
@@ -128,12 +128,12 @@ https://github.com/tuesda/Watch
 
 
 25.Sina Weibo Android Client.https://github.com/qii/weiciyuan           
-<img src="./screenshot/25-1.webp.jpg" width = "30%" height = "20%">
-<img src="./screenshot/25-2.webp.jpg" width = "30%" height = "20%">           
+<img src="./screenshot/25-1.webp.jpg" width = "25%" height = "20%">
+<img src="./screenshot/25-2.webp.jpg" width = "25%" height = "20%">           
 
 
 26.煎蛋”Android版的高仿.https://github.com/ZhaoKaiQiang/JianDan            
-<img src="./screenshot/26-1.gif" width = "30%" height = "20%">           
+<img src="./screenshot/26-1.gif" width = "25%" height = "20%">           
 
 
 27.Modern, easy and customizable app manager for Android with Material Design.应用管理工具.              
@@ -165,7 +165,7 @@ https://github.com/tuesda/Watch
 Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)      
 项目地址:https://github.com/lyxwll/PhotoNoter          
 <img src="./screenshot/31-1.gif" width = "25%" height = "20%">
-<img src="./screenshot/31-2.png" width = "30%" height = "20%">                          
+<img src="./screenshot/31-2.png" width = "25%" height = "20%">                          
 
 
 **32.A Material Design app for douban.com**
