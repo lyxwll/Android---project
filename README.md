@@ -138,7 +138,7 @@ https://github.com/tuesda/Watch
 
 27.Modern, easy and customizable app manager for Android with Material Design.应用管理工具.              
 项目地址:https://github.com/javiersantos/MLManager                 
-<img src="./screenshot/27-1.png" width = "30%" height = "20%">              
+<img src="./screenshot/27-1.png" width = "60%" height = "20%">              
 
 
 28.AppPlus is a open source android application,and used to manage app,export apk,watch recent processes.    App+是一个主要用于Android用户间传送Apk文件的工具软件。当你手机中有一款不错的软件，然后你朋友也想在自己手机上体验一下，此时，通常的做法是让你的朋友去软件市场下载该软件。但是，如果此刻能直接把这个软件的安装包发送到对方的手机，岂不是更加方便、省时、省流量。                       项目地址:https://github.com/maoruibin/AppPlus                          
@@ -148,9 +148,9 @@ https://github.com/tuesda/Watch
 
 29.CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出变化、云同步、智能提醒等功能。                           
 项目地址:https://github.com/Nightonke/CoCoin                                              
-<img src="./screenshot/29-1.gif" width = "30%" height = "20%">
-<img src="./screenshot/29-2.gif" width = "30%" height = "20%"> 
-<img src="./screenshot/29-3.gif" width = "30%" height = "20%"> 
+<img src="./screenshot/29-1.gif" width = "25%" height = "20%">
+<img src="./screenshot/29-2.gif" width = "25%" height = "20%"> 
+<img src="./screenshot/29-3.gif" width = "25%" height = "20%"> 
 
 
 **30.WeiBo:高仿新浪微博客户端**                     
@@ -164,44 +164,44 @@ https://github.com/tuesda/Watch
 **31.PhotoNoter**             
 Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)      
 项目地址:https://github.com/lyxwll/PhotoNoter          
-<img src="./screenshot/31-1.gif" width = "30%" height = "20%">
+<img src="./screenshot/31-1.gif" width = "25%" height = "20%">
 <img src="./screenshot/31-2.png" width = "30%" height = "20%">                          
 
 
 **32.A Material Design app for douban.com**
 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）。          
 项目地址:https://github.com/DreaminginCodeZH/Douya                 
-<img src="./screenshot/32-1.png" width = "30%" height = "20%">
-<img src="./screenshot/32-2.jpg" width = "30%" height = "20%">
-<img src="./screenshot/32-3.png" width = "30%" height = "20%">
+<img src="./screenshot/32-1.png" width = "25%" height = "20%">
+<img src="./screenshot/32-2.jpg" width = "25%" height = "20%">
+<img src="./screenshot/32-3.png" width = "25%" height = "20%">
 
 
 **33.趣刻 Android APP**
 项目地址:https://github.com/hugeterry/coderfun                           
-<img src="./screenshot/33-1.jpg" width = "30%" height = "20%">
-<img src="./screenshot/33-2.jpg" width = "30%" height = "20%">
-<img src="./screenshot/33-3.jpg" width = "30%" height = "20%">
+<img src="./screenshot/33-1.jpg" width = "25%" height = "20%">
+<img src="./screenshot/33-2.jpg" width = "25%" height = "20%">
+<img src="./screenshot/33-3.jpg" width = "25%" height = "20%">
 
 
 **34.采用MVP架构的仿知乎APP**
 项目地址:https://github.com/fangx/ZhiHuMVP          
-<img src="./screenshot/34-1.gif" width = "30%" height = "20%">
-<img src="./screenshot/34-2.gif" width = "30%" height = "20%">
-<img src="./screenshot/34-3.gif" width = "30%" height = "20%">          
+<img src="./screenshot/34-1.gif" width = "25%" height = "20%">
+<img src="./screenshot/34-2.gif" width = "25%" height = "20%">
+<img src="./screenshot/34-3.gif" width = "25%" height = "20%">          
 
 
 **35.OuNews 一个由学习之用而来的新闻阅读开源App**  
 项目地址:https://github.com/oubowu/OuNews   
-<img src="./screenshot/35-1.png" width = "30%" height = "20%">
-<img src="./screenshot/35-2.gif" width = "30%" height = "20%">
-<img src="./screenshot/35-3.gif" width = "30%" height = "20%">
+<img src="./screenshot/35-1.png" width = "25%" height = "20%">
+<img src="./screenshot/35-2.gif" width = "25%" height = "20%">
+<img src="./screenshot/35-3.gif" width = "25%" height = "20%">
 
 
 **36.NewsMe 私人定制新闻**        
 项目地址:https://github.com/iQuick/NewsMe      
-<img src="./screenshot/36-1.jpg" width = "30%" height = "20%">
-<img src="./screenshot/36-2.jpg" width = "30%" height = "20%">
-<img src="./screenshot/36-3.jpg" width = "30%" height = "20%">        
+<img src="./screenshot/36-1.jpg" width = "25%" height = "20%">
+<img src="./screenshot/36-2.jpg" width = "25%" height = "20%">
+<img src="./screenshot/36-3.jpg" width = "25%" height = "20%">        
 
 
 **37.LeetCoder is an awesome app for (including unlock) problems, solutions, discuss(from leetcode) and comments.**
@@ -215,16 +215,16 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 **38.知乎日报 RRD(Retrofit,RxJava,Dagger2)**             
 这是一个使用Retrofit RxJava Dagger2创建的简单示例。                                         
 项目地址:https://github.com/lsxiao/ZhihuDailyRRD              
-<img src="./screenshot/38-1.png" width = "30%" height = "20%">
-<img src="./screenshot/38-2.png" width = "30%" height = "20%">
-<img src="./screenshot/38-3.png" width = "30%" height = "20%">         
+<img src="./screenshot/38-1.png" width = "25%" height = "20%">
+<img src="./screenshot/38-2.png" width = "25%" height = "20%">
+<img src="./screenshot/38-3.png" width = "25%" height = "20%">         
 
 
 **39.A lightweight Youtube frontend for Android.**     
 项目地址:https://github.com/theScrabi/NewPipe          
-<img src="./screenshot/39-1.png" width = "30%" height = "20%">
-<img src="./screenshot/39-2.png" width = "30%" height = "20%">
-<img src="./screenshot/39-3.png" width = "30%" height = "20%">     
+<img src="./screenshot/39-1.png" width = "25%" height = "20%">
+<img src="./screenshot/39-2.png" width = "25%" height = "20%">
+<img src="./screenshot/39-3.png" width = "25%" height = "20%">     
 
 
 **40.DroidKaigi 2016 official Android conference app in Tokyo.**     
