@@ -47,38 +47,44 @@ https://github.com/SkillCollege/SimplifyReader
 
 
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader
-![image](https://raw.githubusercontent.com/kinneyyan/36krReader/master/Screenshots/device-2015-10-29-152645.png)
+<img src="./screenshot/8-1.png" width = "30%" height = "20%" align=center/>
 
 
-9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。https://github.com/cundong/ZhihuPaper            
-![image](https://raw.githubusercontent.com/cundong/ZhihuPaper/master/screenshot/one.png)
+9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。       
+https://github.com/cundong/ZhihuPaper            
+<img src="./screenshot/9-1.png" width = "30%" height = "20%" align=center/>
 
 
 10.一个符合 Google Material Design 的 Android 校园新闻客户端.https://github.com/sues-lee/SuesNews
-![image](https://github.com/sues-lee/SuesNews/blob/master/art/screenshot-2.png)
-![image](https://github.com/sues-lee/SuesNews/blob/master/art/screenshot-3.png)
+<img src="./screenshot/10-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/10-2.png" width = "30%" height = "20%" align=center/>
 
 
 11.FineDay-A simple weather app;一个简单的天气预报app;https://github.com/sd6352051/FineDay
-![image](https://camo.githubusercontent.com/ea45288811ac3b5836550ccc8f95b0dfdb66e218/687474703a2f2f70702e6d796170702e636f6d2f6d615f7069632f302f73686f745f31303633353533385f31383136373336315f325f313430323339323634372f353530);![image](https://camo.githubusercontent.com/acfe1f474ee6c773cc03e27f33c3913e6d50d03e/687474703a2f2f70702e6d796170702e636f6d2f6d615f7069632f302f73686f745f31303633353533385f31383136373336315f335f313430323339323634372f353530)
+<img src="./screenshot/11-1.jpg" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/11-2.jpg" width = "30%" height = "20%" align=center/>
 
 
 12.Ruby-China的Android客户端 http://ruby-china.org/.https://github.com/gonjay/rubychina4android
-![image](https://camo.githubusercontent.com/d1c521c0c20e191cffbf93bae9a542256c457787/687474703a2f2f727562796368696e612e71696e6975646e2e636f6d2f6d656469612d32303134303230342532302831292e706e673f696d61676556696577322f312f772f3330302f682f353530),![image](https://camo.githubusercontent.com/9349ba23dc8e2101d8ff2d8b512ab98c2d3aca58/687474703a2f2f727562796368696e612e71696e6975646e2e636f6d2f6465766963652d323031342d30322d31302d3233323431322e706e673f696d61676556696577322f312f772f3330302f682f353530)
+<img src="./screenshot/12-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/12-2.png" width = "30%" height = "20%" align=center/>
 
 
 13.A project which demonstrate how to develop a custom client on android for dribbble.com;
 https://github.com/tuesda/Watch         
-![image](https://github.com/tuesda/Watch/blob/master/animation/comments.gif),![image](https://github.com/tuesda/Watch/blob/master/animation/home.gif),![image](https://github.com/tuesda/Watch/blob/master/animation/drawer.gif)
+<img src="./screenshot/13-1.gif" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/13-2.gif" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/13-3.gif" width = "30%" height = "20%" align=center/>
 
 
-14.a Dribbble client for android, building in android studio.https://github.com/NovelanceF/Dribbble_rebuild
-![image](https://camo.githubusercontent.com/4006f3a3329b907139189fe2ecdde91bda446397/687474703a2f2f6661726d382e737461746963666c69636b722e636f6d2f373430392f31323739323736383135335f633033373333303534372e6a7067),![image](https://camo.githubusercontent.com/25f2d63421f5cf91120b294b658f696f3bf4ba93/687474703a2f2f6661726d342e737461746963666c69636b722e636f6d2f333830302f31323739323736353632335f373638386438326239622e6a7067)
+14.a Dribbble client for android, building in android studio.https://github.com/NovelanceF/Dribbble_rebuild     
+<img src="./screenshot/14-1.jpg" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/14-2.jpg" width = "30%" height = "20%" align=center/>
 
 
 15.彩阅.新闻源来自于新华网，人民网RSS源。实现了简单的新闻添加功能。 后台数据库使用BMOB云。实现了查询，排序，上传功能。 分享使用友盟，实现了微博，qq好友的分享。 图片列表使用第三方库实现CardView效果。 
 项目地址:http://www.devstore.cn/code/info/1293.html           
-![image](http://ds.devstore.cn/dev_store/user/souce_code/img/20151028102946591l4ok9bya/Screenshot_2015-10-28-10-10-10.png).
+<img src="./screenshot/15-1.png" width = "30%" height = "20%" align=center/>
 
 
 16.干柴 - android client, php server;专注于Android干货资源.https://github.com/openproject/ganchai             
@@ -86,7 +92,7 @@ https://github.com/tuesda/Watch
 
 
 17.一个遵循Material Design的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义。https://github.com/nickbutcher/plaid           
-![image](https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif)
+<img src="./screenshot/17-1.gif" width = "30%" height = "20%" align=center/>
 
 
 18.爱看博客Android客户端,爱看博客是个人博客平台客户端，你也可以访问http://blog.kymjs.com查看博客。           
@@ -97,11 +103,13 @@ https://github.com/tuesda/Watch
 
 19.GankDaily,每日提供技术干货的App。为学习使用 MVP、RxJava、Retrofit 等知识点，仿照 @drakeet 的妹纸， 使用 MVP 模式对项目进行重构，让视图层跟业务逻辑向分离，使代码结构更清晰。             
 项目地址:https://github.com/maoruibin/GankDaily                
-![image](https://github.com/maoruibin/GankDaily/blob/master/art/gank_introduce.png)
+<img src="./screenshot/19-1.png" width = "80%" height = "30%" align=center/>
 
 
 20.一个基于Material Design的待办事件列表App.https://github.com/hanks-zyh/Conquer          
-![image](https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s2.png),![image](https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo2.gif),![image](https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo.gif)
+<img src="./screenshot/20-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/20-2.gif" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/20-3.gif" width = "30%" height = "20%" align=center/>
 
 
 21.A material Date Range Picker based on wdullaers MaterialDateTimePicker.          
