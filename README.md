@@ -18,9 +18,9 @@ Android 开源项目第五篇——优秀个人和团体篇
 
 
 2.妹纸Android客户端:每天自动更新一张精选妹纸图、一个小视频、一系列精选程序猿干货（周末不更新）。数据来自代码家的干货网站：http://gank.io;  https://github.com/drakeet/Meizhi                     
-<img src="./screenshot/2-1.png" width="30%" height="15%">
-<img src="./screenshot/2-6.png" width="30%" height="15%">
-<img src="./screenshot/2-8.png" width="30%" height="15%">
+<img src="./screenshot/2-1.png" width="30%" height="10%">
+<img src="./screenshot/2-6.png" width="30%" height="10%">
+<img src="./screenshot/2-8.png" width="30%" height="10%">
 
 
 3.一款免费,强大而优雅的Android端音乐播放器.      
