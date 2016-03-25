@@ -47,17 +47,17 @@ https://github.com/SkillCollege/SimplifyReader
 
 
 8.MD风格的36氪Android阅读客户端.https://github.com/kinneyyan/36krReader      
-<img src="./screenshot/8-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/8-1.png" width = "30%" height = "10%" align=center/>
 
 
 9.一个仿知乎日报客户端 - 新奇日报.没有让人皱眉的启动页广告，没有后台的消息推送，只提供最初的阅读功能。       
 https://github.com/cundong/ZhihuPaper            
-<img src="./screenshot/9-1.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/9-1.png" width = "30%" height = "10%" align=center/>
 
 
 10.一个符合 Google Material Design 的 Android 校园新闻客户端.https://github.com/sues-lee/SuesNews
-<img src="./screenshot/10-1.png" width = "30%" height = "20%" align=center/>
-<img src="./screenshot/10-2.png" width = "30%" height = "20%" align=center/>
+<img src="./screenshot/10-1.png" width = "30%" height = "10%" align=center/>
+<img src="./screenshot/10-2.png" width = "30%" height = "10%" align=center/>
 
 
 11.FineDay-A simple weather app;一个简单的天气预报app;https://github.com/sd6352051/FineDay
