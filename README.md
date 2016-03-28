@@ -293,7 +293,9 @@ https://github.com/lguipeng/Notes
 https://github.com/wuapnjie/PoiShuhui-Kotlin      
 
 
-**51.**
+**51.一个表白墙项目 采用MVP设计模式，网络框架主要是Glide加上Okhttp**     
+https://github.com/1036711153/ConfessWall/        
+
 
 
 
