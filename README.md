@@ -289,7 +289,13 @@ https://github.com/lguipeng/Notes
 <img src="./screenshot/screenshot_6.png" width="25%" height="20%">   
 
 
-**50.**
+**50.一个用Kotlin写的简单漫画APP**      
+https://github.com/wuapnjie/PoiShuhui-Kotlin      
+
+
+**51.**
+
+
 
 
 
