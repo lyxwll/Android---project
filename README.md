@@ -235,21 +235,25 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **41.MaterialNotes:Powered by MIUI Notes**     
 项目地址:https://github.com/songhanghang/MaterialNotes       
-![image](https://github.com/songhanghang/MaterialNotes/blob/master/screenshots/A0001LRX22Gsonghang12062015151859.gif)     
+<img src="./screenshot/41-1.gif" width = "25%" height = "10%">  
 
 
 **42.非官方版“一个(ONE)”，一个比官方版更优秀的版本**      
 项目地址:https://github.com/Uphie/ONE-Unofficial       
-![image](https://github.com/Uphie/ONE-Unofficial/blob/master/Screenshots/screenshot-1.png),![image](https://github.com/Uphie/ONE-Unofficial/blob/master/Screenshots/screenshot-3.png),![image](https://github.com/Uphie/ONE-Unofficial/blob/master/Screenshots/screenshot-2.png)       
+<img src="./screenshot/42-1.png" width = "25%" height = "20%">
+<img src="./screenshot/42-2.png" width = "25%" height = "20%">
+<img src="./screenshot/42-3.png" width = "25%" height = "20%">        
 
 **43.RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App:octocat:**    
 项目地址:https://github.com/xcc3641/SeeWeather      
-![image](https://camo.githubusercontent.com/57ee8d72fa5ba4f6dcdbfd84b7bfb24d40bb72c8/687474703a2f2f786363333634312e71696e6975646e2e636f6d2f6170702d2545352542302542312545372539432538422545352541342541392545362542302539342d2545352541342539432545362539392539412545362541382541312545352542432538462e706e67),![image](https://camo.githubusercontent.com/e349ccaa7d587551751c3c1791312b8b992ec028/687474703a2f2f786363333634312e71696e6975646e2e636f6d2f6170702d2545352542302542312545372539432538422545352541342541392545362542302539342d2545372539392542442545352541342541392545362541382541312545352542432538462e706e67)     
+<img src="./screenshot/43-1.png" width = "40%" height = "20%">
+<img src="./screenshot/43-2.png" width = "40%" height = "20%">    
 
 
 **44.Material Design风格的众筹app**     
 项目地址:https://github.com/byoutline/kickmaterial    
-![image](https://github.com/byoutline/kickmaterial/blob/master/screenshots/project_anim.gif),![image](https://github.com/byoutline/kickmaterial/blob/master/screenshots/categories_anim.gif)    
+<img src="./screenshot/44-1.gif" width = "25%" height = "10%">  
+<img src="./screenshot/44-2.gif" width = "25%" height = "10%">  
 
 
 **45.一个react-native写的github客户端**     
@@ -259,27 +263,30 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **46.一款优雅的干货集中营Android客户端，实现了沉浸式状态栏，无缝换肤，带3D感觉的侧滑菜单**      
 项目地址:https://github.com/dongjunkun/GanK        
-![image](https://raw.githubusercontent.com/dongjunkun/GanK/master/art/gank1.png),![image](https://raw.githubusercontent.com/dongjunkun/GanK/master/art/gank2.png)       
+<img src="./screenshot/46-1.png" width = "25%" height = "20%">
+<img src="./screenshot/46-2.png" width = "25%" height = "20%">     
 
 
 **47.一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能。**       
 项目地址:https://github.com/IvorHu/RealStuff        
-![image](https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG),![image](https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG)       
+<img src="./screenshot/47-1.PNG" width = "25%" height = "20%">
+<img src="./screenshot/47-2.PNG" width = "25%" height = "20%">      
 
 
 **48.使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。**     
 https://github.com/liuguangqiang/Idaily       
-![image](https://github.com/liuguangqiang/Idaily/blob/master/art/1.png),![image](https://github.com/liuguangqiang/Idaily/blob/master/art/2.png)             
+<img src="./screenshot/48-1.png" width = "25%" height = "20%">
+<img src="./screenshot/48-2.png" width = "25%" height = "20%">            
 
 
 **49.一款基于Material Design 设计的开源笔记本应用**     
 https://github.com/lguipeng/Notes      
-<img src="./screenshot/screenshot_1.png" width="30%" height="30%">
-<img src="./screenshot/screenshot_2.png" width="30%" height="30%">
-<img src="./screenshot/screenshot_3.png" width="30%" height="30%">
-<img src="./screenshot/screenshot_4.png" width="30%" height="30%">
-<img src="./screenshot/screenshot_5.png" width="30%" height="30%">
-<img src="./screenshot/screenshot_6.png" width="30%" height="30%">   
+<img src="./screenshot/screenshot_1.png" width="25%" height="20%">
+<img src="./screenshot/screenshot_2.png" width="25%" height="20%">
+<img src="./screenshot/screenshot_3.png" width="25%" height="20%">
+<img src="./screenshot/screenshot_4.png" width="25%" height="20%">
+<img src="./screenshot/screenshot_5.png" width="25%" height="20%">
+<img src="./screenshot/screenshot_6.png" width="25%" height="20%">   
 
 
 **50.**
