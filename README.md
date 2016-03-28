@@ -252,8 +252,8 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **44.Material Design风格的众筹app**     
 项目地址:https://github.com/byoutline/kickmaterial    
-<img src="./screenshot/44-1.gif" width = "25%" height = "10%">  
-<img src="./screenshot/44-2.gif" width = "25%" height = "10%">  
+<img src="./screenshot/44-1.gif" width = "40%" height = "10%">  
+<img src="./screenshot/44-2.gif" width = "40%" height = "10%">  
 
 
 **45.一个react-native写的github客户端**     
@@ -263,8 +263,8 @@ Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
 
 **46.一款优雅的干货集中营Android客户端，实现了沉浸式状态栏，无缝换肤，带3D感觉的侧滑菜单**      
 项目地址:https://github.com/dongjunkun/GanK        
-<img src="./screenshot/46-1.png" width = "25%" height = "20%">
-<img src="./screenshot/46-2.png" width = "25%" height = "20%">     
+<img src="./screenshot/46-1.png" width = "40%" height = "20%">
+<img src="./screenshot/46-2.png" width = "40%" height = "20%">     
 
 
 **47.一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能。**       
