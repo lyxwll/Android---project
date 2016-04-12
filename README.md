@@ -294,7 +294,13 @@ https://github.com/wuapnjie/PoiShuhui-Kotlin
 
 
 **51.一个表白墙项目 采用MVP设计模式，网络框架主要是Glide加上Okhttp**     
-https://github.com/1036711153/ConfessWall/        
+https://github.com/1036711153/ConfessWall/          
+
+
+**52.集视频，图片和文章的娱乐app,数据来源于优酷，暴走tv，全球动画精选以及其他网站。**      
+https://github.com/panjichang/weishijie-develop
+<img src="" width="" height="" >
+
 
 
 
