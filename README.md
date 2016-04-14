@@ -302,7 +302,12 @@ https://github.com/panjichang/weishijie-develop
 <img src="" width="" height="" >
 
 
+**53.Android干货妹子APP,MVP框架**     
+https://github.com/dalingge/GankGirl      
+<img src="" width="" height="" >
 
+
+**54.**
 
 
 
