@@ -312,7 +312,13 @@ https://github.com/dibakarece/DMPlayer
 <img src="" width="" height="" >   
 
 
-**55.**
+**55.ListenRain/听雨 一个开源资讯 App(Android) **      
+https://github.com/laobie/ListenRain    
+<img src="" width="" height="" >   
+
+
+**56.**
+
 
 
 
