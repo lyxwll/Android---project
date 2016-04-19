@@ -317,7 +317,12 @@ https://github.com/laobie/ListenRain
 <img src="" width="" height="" >   
 
 
-**56.**
+**56.gank是干货集中营非官方客户端，主要练习RxJava、RxAndroid、Retrofit & MVP**     
+https://github.com/xybCoder/gank      
+<img src="" width="" height="" >   
+
+
+**57.**
 
 
 
