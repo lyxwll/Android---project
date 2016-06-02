@@ -330,7 +330,15 @@ https://github.com/YiuChoi/MicroReader
 https://github.com/v1210012100/Gank.IO2              
 
 
-**59.**
+**59.A third party app for androidweekly.net**        
+https://github.com/mzule/AndroidWeekly            
+
+
+**60.一款以兴趣为驱动的陌生人社交app**           
+https://github.com/Chenantao/PlayTogether            
+
+
+**61.**
 
 
 
