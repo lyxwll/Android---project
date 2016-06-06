@@ -338,8 +338,11 @@ https://github.com/mzule/AndroidWeekly
 https://github.com/Chenantao/PlayTogether            
 
 
-**61.**
+**61.基于Gank.IO提供的API的第三方客户端**                   
+https://github.com/burgessjp/GanHuoIO               
 
+
+**62.**
 
 
  
