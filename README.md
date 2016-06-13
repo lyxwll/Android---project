@@ -346,7 +346,11 @@ https://github.com/burgessjp/GanHuoIO
 https://github.com/gaolonglong/GankGirl                     
 
 
-**63.**
+**63.基于Material Design和MVP的新闻客户端 https://github.com/liuling07/SimpleNews/raw/master/SimpleNews.apk**      
+https://github.com/liuling07/SimpleNews     
+
+
+**64.**
 
 
  
