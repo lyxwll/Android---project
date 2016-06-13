@@ -350,7 +350,11 @@ https://github.com/gaolonglong/GankGirl
 https://github.com/liuling07/SimpleNews     
 
 
-**64.**
+**64.EasyGank妹纸:Base on the MVP pattern , RxJava+RxAndroid+Retrofit .**    
+https://github.com/CaMnter/EasyGank     
+
+
+**65.**
 
 
  
