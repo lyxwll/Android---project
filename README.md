@@ -366,7 +366,11 @@ https://github.com/HotBitmapGG/StudyProject
 https://github.com/xiaohaibin/DMGameApp            
 
 
-**68.**
+**68.这个repo是YouJoin社交平台的Android客户端**                 
+https://github.com/FreedomZZQ/YouJoin-Android           
+
+
+**69.**
 
 
  
