@@ -370,7 +370,11 @@ https://github.com/xiaohaibin/DMGameApp
 https://github.com/FreedomZZQ/YouJoin-Android           
 
 
-**69.**
+**69.书柜：一款用于管理个人图书及阅读笔记的移动 Android 应用。**    
+https://github.com/iHaPBoy/BookShelf      
+
+
+**70.**
 
 
  
