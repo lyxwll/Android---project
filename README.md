@@ -374,7 +374,11 @@ https://github.com/FreedomZZQ/YouJoin-Android
 https://github.com/iHaPBoy/BookShelf      
 
 
-**70.**
+**70.Popular-Movies-App: A simple Android app, that helps you discover most popular and most rated movies.**    
+https://github.com/maksim-m/Popular-Movies-App     
+
+
+**71.**
 
 
  
