@@ -378,7 +378,15 @@ https://github.com/iHaPBoy/BookShelf
 https://github.com/maksim-m/Popular-Movies-App     
 
 
-**71.**
+**71.简洁美观的干货集中营(gank.io)的非官方安卓客户端**      
+https://github.com/JohnnyShieh/Gank    
+
+
+**72.高仿 爱范儿**              
+https://github.com/iCodeForever/ifanr                  
+
+
+**73.**
 
 
  
