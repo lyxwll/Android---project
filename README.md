@@ -390,7 +390,19 @@ https://github.com/iCodeForever/ifanr
 https://github.com/drakeet/Meizhi   
 
 
-**74.**
+**74.A amazing, minimalist reading information app**    
+https://github.com/xinghongfei/LookLook    
+
+
+**75.这个开源项目展示了如何实现一个横跨各种Android平台的音乐播放器，包括手机，平板，汽车，手表，电视等。Google官方推出，跨平台开发必看项目。**    
+https://github.com/googlesamples/android-UniversalMusicPlayer    
+
+
+**76.由谷歌工程师开发，展示Google Material风格设计，项目代码量大，但是结构清晰，还是很好理解的。**    
+https://github.com/nickbutcher/plaid     
+
+
+**77.**
 
  
 
