@@ -402,8 +402,15 @@ https://github.com/googlesamples/android-UniversalMusicPlayer
 https://github.com/nickbutcher/plaid     
 
 
-**77.**
+**77.“面对面文件快传”，Android端灵动快传，安卓互传文件，局域网，无网传输文件，Android，file transfer**    
+https://github.com/zhoubowen-sky/LingDong2.0              
 
+
+**78.电影App: Awesome material designed movie app powered by tmdb and trakt.**             
+https://github.com/salRoid/Filmy                
+
+
+**79.**
  
 
 
