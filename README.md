@@ -410,7 +410,11 @@ https://github.com/zhoubowen-sky/LingDong2.0
 https://github.com/salRoid/Filmy                
 
 
-**79.**
+**79.极客日报，一款纯粹的阅读App，基于Material Design + MVP + RxJava + Retrofit + Dagger2 + Realm + Glide**            
+https://github.com/codeestX/GeekNews                
+
+
+**80.**
  
 
 
