@@ -417,7 +417,10 @@ https://github.com/codeestX/GeekNews
 **80.A stylish music player for android device 16+**               
 
 
-**81.**
+**81.一个完整的生日管理 App: UPMiss(思念之夏)**        
+https://github.com/qiujuer/UPMiss              
+
+**82.**
  
 
 
