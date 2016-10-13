@@ -423,7 +423,10 @@ https://github.com/qiujuer/UPMiss
 **82.“任阅”，开源小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、本地书籍阅读、字体/主题/亮度设置、Wifi传书等功能！**          
 https://github.com/JustWayward/BookReader          
 
-**83.**
+**83.完整的NBA第三方Android客户端，包含NBA头条新闻、视频集锦/赛场花絮、比赛直播（目前支持比赛前瞻、文字直播、球队及球员技术统计）、球队战绩排行、球员数据排名、虎扑论坛专区（已实现发帖与回复功能）、球队及球员的详细资料。 http://blog.csdn.net/yyh352091626/article/details/52093351**             
+https://github.com/smuyyh/SprintNBA                
+
+**84.**
  
 
 
