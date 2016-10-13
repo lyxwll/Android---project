@@ -420,7 +420,10 @@ https://github.com/codeestX/GeekNews
 **81.一个完整的生日管理 App: UPMiss(思念之夏)**        
 https://github.com/qiujuer/UPMiss              
 
-**82.**
+**82.“任阅”，开源小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、本地书籍阅读、字体/主题/亮度设置、Wifi传书等功能！**          
+https://github.com/JustWayward/BookReader          
+
+**83.**
  
 
 
