@@ -426,7 +426,11 @@ https://github.com/JustWayward/BookReader
 **83.完整的NBA第三方Android客户端，包含NBA头条新闻、视频集锦/赛场花絮、比赛直播（目前支持比赛前瞻、文字直播、球队及球员技术统计）、球队战绩排行、球员数据排名、虎扑论坛专区（已实现发帖与回复功能）、球队及球员的详细资料。 http://blog.csdn.net/yyh352091626/article/details/52093351**             
 https://github.com/smuyyh/SprintNBA                
 
-**84.**
+**84.Bgm38 Android 客户端**         
+https://github.com/zubinxiong/Bgm38         
+
+**85.**
+
  
 
 
