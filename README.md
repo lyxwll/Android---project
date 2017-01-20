@@ -432,8 +432,13 @@ https://github.com/zubinxiong/Bgm38
 **85.Girls : an App for some picture**                   
 https://github.com/flyou/Girls          
 
-**86.**
+**86.仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载**          
+https://github.com/lyxwll/remusic                  
 
+**87.『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端**      
+https://github.com/li-yu/FakeWeather
+
+**88.**
  
 
 
