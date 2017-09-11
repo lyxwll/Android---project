@@ -377,7 +377,10 @@ https://github.com/Assassinss/Interessant
 **89.简诗 一款优雅的中国风Android App，包括Android端和Server端，支持登录注册，数据云端同步，离线数据存储和截屏分享等功能。**     
 https://github.com/wingjay/jianshi
 
-**90.**
+**90.高仿爱壁纸App | Material Design**     
+https://github.com/LiuGuiLinAndroid/LoveWallpaper
+
+**91.**
  
 
 
