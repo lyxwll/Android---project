@@ -2,10 +2,10 @@
 
 #收集的一些开源项目.
 
-0.android material design 风格项目整理.
+0.android material design 风格项目整理.    
 项目地址:https://github.com/soyoungboy/android-material-design-Open-source-projects/tree/master
 
-1.Android 开源项目第一篇----个性化控件(View)篇   
+1.Android 开源项目第一篇----个性化控件(View)篇     
 包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar、TextView、ScrollView、TimeView、TipView、FlipView、ColorPickView、GraphView、UI Style、其他         
 Android 开源项目第二篇——工具库篇                 
 包括依赖注入、图片缓存、网络请求、数据库,ORM工具包、Android公共库、高版本向低版本兼容库、多媒体、事件总线、传感器、安全、插件化、文件、其他               
@@ -13,7 +13,7 @@ Android 开源项目第三篇——优秀项目篇:比较有意思的完整的 A
 Android 开源项目第四篇——开发及测试工具篇          
 包括开发效率工具、开发自测相关、测试工具、开发及编译环境、其他           
 Android 开源项目第五篇——优秀个人和团体篇        
-乐于分享并且有一些很不错的开源项目的个人和组织，包括 JakeWharton、Chris Banes、Koushik Dutta 等大牛.   
+乐于分享并且有一些很不错的开源项目的个人和组织，包括 JakeWharton、Chris Banes、Koushik Dutta 等大牛.      
 项目地址:https://github.com/Trinea/android-open-project
 
 
@@ -28,12 +28,12 @@ https://github.com/psaravan/JamsMusicPlayer
 <img src="./screenshot/3-1.jpg" width = "60%" height = "20%"/>
 
 
-4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。      
-https://github.com/SkillCollege/SimplifyReader     
+4.SimplifyReader:一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。     https://github.com/SkillCollege/SimplifyReader     
 <img src="./screenshot/4-1.jpg" width = "80%" height = "20%"/>
 
 
-5.Purified version of Zhihu Daily - 更纯净的知乎日报.https://github.com/izzyleung/ZhihuDailyPurify    
+5.Purified version of Zhihu Daily - 更纯净的知乎日报.      
+https://github.com/izzyleung/ZhihuDailyPurify    
 <img src="./screenshot/5-1.png" width = "25%" height = "20%" align=center/>
 
 
